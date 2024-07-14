@@ -9,7 +9,8 @@
 <h3>1. Generative AI using pre-trained model</h3>
 <i>Preview</i>
 
-![image](https://github.com/user-attachments/assets/61db85a4-c1c6-4f59-8400-63a1f468e855)
+![image](https://github.com/user-attachments/assets/ca63f89f-bfc5-4134-aa71-aa686f21a5ea)
+
 
 <h3>2. Classifcation Problem</h3>
 <i>Preview</i>
