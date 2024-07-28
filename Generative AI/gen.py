@@ -1,6 +1,6 @@
 import streamlit as st
-#from diffusers import StableDiffusionPipeline, EulerDiscreteScheduler
-#import torch
+from diffusers import StableDiffusionPipeline, EulerDiscreteScheduler
+import torch
 
 st.set_page_config(page_title="Generative AI", layout="wide")
 st.title("Generating images with Stable Diffusion")
